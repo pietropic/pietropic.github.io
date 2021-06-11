@@ -1,0 +1,38 @@
+body{
+  font-family: "Lato", "Palatino Linotype", "Book Antiqua", Palatino, sans-serif;
+}
+
+a {
+  color: #4682B4;
+  text-decoration: none;
+}
+
+a:hover { 
+  color: #9BC4E2;
+}
+
+.gwen {
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing:0.15em;
+}
+
+.gwenspages {
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  font-size:2rem;
+  text-transform: uppercase;
+  letter-spacing:0.15em;
+  padding-right:2rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+#footer {background:##fff url(images/insidebg.jpg) top center no-repeat;}
+#footer .col {color:#555; border-top:1px  #1a1a1a; padding:20px 0;}
+#footer p {text-align:center;}
+#footer a {color:#555; font-weight:400; text-decoration:none; border-bottom:1px  #333;}
+#footer a:hover {color:#aaa; text-decoration:none; border-bottom:1px  #888;}
