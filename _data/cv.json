@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Pietro Mesquita Piccione",
-    "email": "none@example.org",
+    "email": "pietropic@pm.me",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "pietropic.github.io/web2",
+    "summary": "Postdoc in complex geometry at the University of Gothenburg",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Chalmers tvärgata 3",
+      "postalCode": "412 58",
+      "city": "Göteborg",
+      "countryCode": "SW",
       "region": ""
     },
     "profiles": [
@@ -56,21 +56,21 @@
       "studyType": "",
       "startDate": "2017",
       "endDate": "2021",
-      "gpa": null,
+      "gpa": "9.7/10",
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["Portuguese", "Italian", "English", "Spanish", "French"],
   "interests": [],
-  "references": [],
+  "references": ["Sébastien Boucksom", "Tat Dat Tô", "Ruadhaí Dervan", "Tamás Darvas"],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A non-Archimedean theory of complex spaces and the cscK problem",
+      "publisher": "Advances in Mathematics",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.1016/j.aim.2025.110543",
+      "summary": "In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over C. As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold."
     },
     {
       "name": "Paper Title Number 2",
