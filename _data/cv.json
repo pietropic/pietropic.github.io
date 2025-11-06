@@ -61,9 +61,9 @@
     }
   ],
   "skills": [],
-  "languages": ["Portuguese", "Italian", "English", "Spanish", "French"],
+  "languages": [{"mother tongue": "Portuguese"}, "English", "Spanish", "French"],
   "interests": [],
-  "references": ["Sébastien Boucksom", "Tat Dat Tô", "Ruadhaí Dervan", "Tamás Darvas"],
+  "references": [{"advisors":"Sébastien Boucksom"}, "Tat Dat Tô", "Ruadhaí Dervan", "Tamás Darvas"],
   "publications": [
     {
       "name": "A non-Archimedean theory of complex spaces and the cscK problem",
