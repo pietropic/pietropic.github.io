@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Sorbonne Université, 2025 
+* M.S. in Mathematics, Sorbonne Université, 2022
+* B.S. in Mathemtics, Universidade de São Paulo, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Postdoc at the University of Gothenburg
+  * Supervisor: David Witt Nyström
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -61,4 +59,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
