@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  lattes           : "https://orcid.org/0000-0002-1626-0726"
+  lattes           : "http://lattes.cnpq.br/7822745238118143"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -77,7 +77,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  lichess          : "pietropic"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
