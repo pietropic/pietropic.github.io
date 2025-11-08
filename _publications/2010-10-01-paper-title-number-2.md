@@ -7,7 +7,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 date: 2025-09-11
 venue: 'preprint on arXiv'
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/pdf/2509.09442' # 'https://academicpages.github.io/files/paper2.pdf'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
