@@ -3,7 +3,7 @@ title: "A non-Archimedean theory of complex spaces and the cscK problem"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-10-NA
-excerpt: 'In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over C. As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold.'
+excerpt: 'In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over \\(\mathds C\\). As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold.'
 date: 2024-09-10
 venue: 'Advances in Mathematics'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
@@ -11,5 +11,5 @@ paperurl: 'https://doi.org/10.1016/j.aim.2025.110543'
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Pietro Mesquita-Piccione. (2025). &quot;A non-Archimedean theory of complex spaces and the cscK problem.&quot; <i>Adv. Math.</i>. 481: Paper No. 110543.'
 ---
-Abstract: In this paper we develop an analogue of the Berkovich analytification for non-necessarily algebraic complex spaces. We apply this theory to generalize to arbitrary compact Kähler manifolds a result of Chi Li, [42], proving that a stronger version of K-stability implies the existence of a unique constant scalar curvature Kähler metric.
+Abstract: In this paper we develop an analogue of the Berkovich analytification for non-necessarily algebraic complex spaces. We apply this theory to generalize to arbitrary compact Kähler manifolds a result of Chi Li, proving that a stronger version of K-stability implies the existence of a unique constant scalar curvature Kähler metric.
 Keywords: cscK; K-stability; Non-Archimedean geometry
