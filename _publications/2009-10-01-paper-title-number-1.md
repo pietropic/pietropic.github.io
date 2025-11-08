@@ -3,7 +3,7 @@ title: "A non-Archimedean theory of complex spaces and the cscK problem"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-10-NA
-excerpt: 'In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over \\(\require{dsfonts} \mathds C\\). As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold.'
+excerpt: 'In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over \\( \mathbf C \\). As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold.'
 date: 2024-09-10
 venue: 'Advances in Mathematics'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
