@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A non-Archimedean theory of complex spaces and the cscK problem"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-09-10-NA
+excerpt: 'In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over C. As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold.'
+date: 2024-09-10
+venue: 'Advances in Mathematics'
+slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.aim.2025.110543'
+bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Pietro Mesquita-Piccione. (2025). &quot;A non-Archimedean theory of complex spaces and the cscK problem.&quot; <i>Adv. Math.</i>. 481: Paper No. 110543.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: In this paper we develop an analogue of the Berkovich analytification for non-necessarily algebraic complex spaces. We apply this theory to generalize to arbitrary compact Kähler manifolds a result of Chi Li, [42], proving that a stronger version of K-stability implies the existence of a unique constant scalar curvature Kähler metric.
+Keywords: cscK; K-stability; Non-Archimedean geometry
