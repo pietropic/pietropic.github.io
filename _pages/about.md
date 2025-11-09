@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,21 @@ I completed my PhD and Masters degree at Sorbonne Université (Paris VI) under t
 
 During both Masters and PhD I was supported by the [Fondation Sciences mathématiques de Paris](https://sciencesmaths-paris.fr/).
 
+Where have I been?
+------
+
 Recently, in the fall of 2025, I was at the Erdős Center in Budapest for the Simons Semester in Analysis and Geometry on Complex Manifolds, and one year before that I visited SLMath for the semester on Special Geometric Structures and Analysis. 
 
 I completed my undergraduate degree at the University of São Paulo in 2021, where my advisor was [Ivan Struchiner](https://www.ime.usp.br/~ivanstru/index.html), we studied Morse Theory, and it's applications such as the H-Cobordism theorem.
 
+Some other things
+------
+
 Recordings of some of my recent talks can be found here. Here is a copy of my current CV.
 
 I used to organize a student run academic group, called [A5 Group](https://www.ime.usp.br/~acinco/en.html). During my undergraduate years I also took three summer courses at IMPA. For some of my other non-mathematical interests, see the fun stuff section.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
