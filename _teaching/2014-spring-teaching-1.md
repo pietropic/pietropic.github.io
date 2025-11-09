@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant for Calculus II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-2-teaching-1
+venue: "University of São Paulo, Escola Politécnica"
+date: 2018-07-01
+location: "São Paulo, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant on a Calculus II course, I was one of two TAs responsible for 800 students at the engendering school of the University of São Paulo.
+
 
 Heading 1
 ======
