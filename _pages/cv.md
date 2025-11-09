@@ -17,27 +17,15 @@ Education
 
 Work experience
 ======
-* Fall 2025: Postdoc at the University of Gothenburg
+
+* Ongoing: Postdoc 
+  * University of Gothenburg
   * Supervisor: David Witt Nyström
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2025: Short postdoc visit
+  * Erdős Center
+
 
 Publications
 ======
@@ -57,5 +45,27 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
+* 2021: Organizer of the [A5 Group](https://www.ime.usp.br/~acinco/en.html)
+  * A student runned academic group
+  * Over [25 weekly seminars](https://www.ime.usp.br/~acinco/past-seminars.html) organized
+  * IME - University of São Paulo
+
+* 2019: Deputy Student Representative in the Mathematics Department Council
+  * IME - University of São Paulo
+
+* 2018: Deputy Student Representative in the Mathematics Department Council
+  * IME - University of São Paulo
+
+  
+Languages
+======
+* Portuguese: native speaker
+* Italian: native speaker
+* English: fluent
+* Spanish: fluent
+* French: fluent
+* Catalan: intermediate
+* Swedish: hopefully in two years :)
+
