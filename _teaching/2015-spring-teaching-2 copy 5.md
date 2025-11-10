@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant for Topology and Differentiable Calculus I"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate course"
+permalink: /teaching/2023-fall-teaching-1
+venue: "Campus Pierre et Marie Curie, Sorbonne Université"
 date: 2015-01-01
-location: "City, Country"
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
