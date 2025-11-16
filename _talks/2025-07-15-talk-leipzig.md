@@ -9,6 +9,3 @@ location: "Leipzig, Germany"
 ---
 [More information here](https://www.mis.mpg.de/events/event/a-non-archimedean-approach-to-the-yau-tian-donaldson-conjecture)
 
-Geometry seminar
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
