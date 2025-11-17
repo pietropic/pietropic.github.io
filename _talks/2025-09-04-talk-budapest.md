@@ -1,5 +1,5 @@
 ---
-title: "Conference talk: Workshop on Singular canonical Kähler metrics on compact and non-compact manifolds"
+title: "Workshop on Singular canonical Kähler metrics on compact and non-compact manifolds"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2025-09-04-talk-budapest

@@ -1,5 +1,5 @@
 ---
-title: "Seminar talk at the Séminaire de géométrie algébrique de Jussieu"
+title: "Séminaire de géométrie algébrique de Jussieu"
 collection: talks
 type: "Seminar talk"
 permalink: /talks/2024-12-19-talk-sgajussieu

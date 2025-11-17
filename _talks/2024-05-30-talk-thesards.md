@@ -1,5 +1,5 @@
 ---
-title: "Talk at the Séminaire des Thésards of the IMJ"
+title: "Séminaire des Thésards of the IMJ"
 collection: talks
 type: "Seminar talk"
 permalink: /talks/2024-05-30-talk-thesards

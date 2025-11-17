@@ -1,5 +1,5 @@
 ---
-title: "Talk at Demi-Journée des doctorant.e.s de l’équipe TGA 2024"
+title: "Demi-Journée des doctorant.e.s de l’équipe TGA 2024"
 collection: talks
 type: "Short talk"
 permalink: /talks/2024-05-29-talk-demijournee

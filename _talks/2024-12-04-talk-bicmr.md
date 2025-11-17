@@ -1,7 +1,7 @@
 ---
-title: "Seminar talk at the Geometric Analysis Seminar"
+title: "Geometric Analysis Seminar"
 collection: talks
-type: "Talk"
+type: "Seminar talk"
 permalink: /talks/2024-12-04-talk-bicmr
 venue: "BICMR"
 date: 2024-12-04

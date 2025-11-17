@@ -1,7 +1,7 @@
 ---
-title: "Seminar talk at the Geometry seminar at MPI Leipzig"
+title: "Geometry seminar at MPI Leipzig"
 collection: talks
-type: "Talk"
+type: "Seminar talk"
 permalink: /talks/2025-07-15-talk-leipzig
 venue: "Max Plank Institute for Mathematics in the Sciences"
 date: 2025-07-15

@@ -1,7 +1,7 @@
 ---
-title: "Seminar talk at Geometry Webinar AmSur/AmSul"
+title: "Geometry Webinar AmSur/AmSul"
 collection: talks
-type: "Talk"
+type: "Seminar talk"
 permalink: /talks/2025-06-06-talk-webinaramsur
 venue: "Webinar AmSur/AmSul"
 date: 2025-06-06

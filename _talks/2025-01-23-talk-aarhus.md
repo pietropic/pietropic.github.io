@@ -1,5 +1,5 @@
 ---
-title: "Talk at Mathematics Seminar"
+title: "Mathematics Seminar"
 collection: talks
 type: "Seminar talk"
 permalink: /talks/2025-01-23-talk-aarhus

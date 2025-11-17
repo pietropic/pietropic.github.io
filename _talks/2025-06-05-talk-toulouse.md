@@ -1,7 +1,7 @@
 ---
-title: "Seminar talk at Séminaire de Géométrie complexe"
+title: "Séminaire de Géométrie complexe"
 collection: talks
-type: "Talk"
+type: "Seminar talk"
 permalink: /talks/2025-06-05-talk-toulouse
 venue: "Institut de Mathématiques de Toulouse, Université de Toulouse"
 date: 2025-06-05

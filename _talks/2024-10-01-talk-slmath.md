@@ -1,5 +1,5 @@
 ---
-title: "Talk at Graduate Student Seminar Series"
+title: "Graduate Student Seminar Series"
 collection: talks
 type: "Short talk"
 permalink: /talks/2024-10-01-talk-slmath

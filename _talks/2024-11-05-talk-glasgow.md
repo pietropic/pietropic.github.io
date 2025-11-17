@@ -1,5 +1,5 @@
 ---
-title: "Seminar talk at the Algebraic Geometry Seminar"
+title: "Algebraic Geometry Seminar"
 collection: talks
 type: "Seminar talk"
 permalink: /talks/2024-11-05-talk-glasgow
