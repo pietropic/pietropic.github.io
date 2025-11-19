@@ -77,7 +77,7 @@
       "publisher": "preprint on arXiv",
       "releaseDate": "2025-09-11",
       "website": "https://arxiv.org/abs/2509.09442",
-      "summary": "Let X be a compact Kähler manifold and α a Kähler class on X. We prove that if (X,α) is uniformly K-stable for models, then there is a unique cscK metric in α. This was first proved in the algebraic case by Chi Li, and it strengthens a related result in an article of Mesquita-Piccione. K-stability for models is defined in terms of big test configurations, but we also give a valuative criterion as in the work of Boucksom--Jonsson together with an explicit formula for the associated β-invariant. To accomplish this we further develop the non-Archimedean pluripotential theory in the transcendental setting, as initiated in the works of Darvas--Xia--Zhang and Mesquita-Piccione. In particular we prove the continuity of envelopes and orthogonality properties, and using that, we are able to extend the non-Archimedean Calabi-Yau Theorem found in an article of Boucksom--Jonsson to the general Kähler setting. "
+      "summary": "Joint with David Witt Nyström. In it we solve the non-Archimedean Monge-Ampère equation for compact Kähler manifolds, generalizing a result of Boucksom--Favre--Jonsson to the transcendental setting. This allows us to derive a valuative criterion for uniform K-stability for models. As a central application, we prove that this stability condition implies the existence of a unique constant scalar curvature Kähler metric. "
     }
   ],
   "presentations": [
