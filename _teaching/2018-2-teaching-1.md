@@ -11,11 +11,3 @@ location: "São Paulo, Brazil"
 Teaching assistant on a Calculus II course, I was one of two TAs responsible for 800 students at the engendering school of the University of São Paulo.
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
