@@ -78,20 +78,6 @@
       "releaseDate": "2025-09-11",
       "website": "https://arxiv.org/abs/2509.09442",
       "summary": "Let X be a compact Kähler manifold and α a Kähler class on X. We prove that if (X,α) is uniformly K-stable for models, then there is a unique cscK metric in α. This was first proved in the algebraic case by Chi Li, and it strengthens a related result in an article of Mesquita-Piccione. K-stability for models is defined in terms of big test configurations, but we also give a valuative criterion as in the work of Boucksom--Jonsson together with an explicit formula for the associated β-invariant. To accomplish this we further develop the non-Archimedean pluripotential theory in the transcendental setting, as initiated in the works of Darvas--Xia--Zhang and Mesquita-Piccione. In particular we prove the continuity of envelopes and orthogonality properties, and using that, we are able to extend the non-Archimedean Calabi-Yau Theorem found in an article of Boucksom--Jonsson to the general Kähler setting. "
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
