@@ -14,7 +14,7 @@
     },
     "profiles": [
       {
-        "network": "arXiv",
+        "network": "arxiv",
         "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
@@ -124,15 +124,6 @@
       "date": "2015-01-01",
       "role": "Workshop",
       "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
 }

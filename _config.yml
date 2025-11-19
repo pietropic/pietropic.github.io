@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2.png"
   name             : "Pietro Mesquita Piccione"
-  pronouns         : # example: "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Postdoc in complex geometry"
   location         : "Chalmers Tvärgata 3, 412 58<br> Göteborg, Sweden</br>"
-  employer         : "University of Gothenburg"
+  employer         : #"University of Gothenburg"
   uri              : # URL
   email            : "pietropic@pm.me" 
 
@@ -290,7 +290,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
