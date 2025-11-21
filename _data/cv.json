@@ -204,67 +204,67 @@
   ],
   "teaching": [
     {
-      "course": "Teaching assistant for Calculus II",
+      "course": "Undergraduate course on Calculus II",
       "institution": "University of S\u00e3o Paulo, Escola Polit\u00e9cnica",
       "date": "2018-07-01",
-      "role": "Undergraduate course",
+      "role": "Teaching assistant",
       "description": ""
     },
     {
-      "course": "Teaching assistant for Introduction to Analysis course",
+      "course": "Undergraduate course on Introduction to Analysis course",
       "institution": "Instituto de Matem\u00e1tica e Estat\u00edstica, Universidade de S\u00e3o Paulo",
       "date": "2019-06-01",
-      "role": "Undergraduate course",
+      "role": "Teaching assistant",
       "description": ""
     },
     {
-      "course": "Teaching assistant for Differentiable functions and series course",
+      "course": "Undergraduate course on Differentiable functions and series course",
       "institution": "Instituto de Matem\u00e1tica e Estat\u00edstica, Universidade de S\u00e3o Paulo",
       "date": "2019-01-01",
-      "role": "Undergraduate course",
+      "role": "Teaching assistant",
       "description": ""
     },
     {
-      "course": "Teaching assistant for Introduction to Algebraic Topology",
+      "course": "Undergraduate course on Introduction to Algebraic Topology",
       "institution": "Instituto de Matem\u00e1tica e Estat\u00edstica, Universidade de S\u00e3o Paulo",
       "date": "2020-06-01",
-      "role": "Undergraduate course",
+      "role": "Teaching assistant",
       "description": ""
     },
     {
-      "course": "Teaching assistant for Topology and Differentiable Calculus I",
+      "course": "Undergraduate course on Topology and Differentiable Calculus I",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
-      "date": "2015-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "date": "2023-06-01",
+      "role": "Teaching assistant ",
+      "description": "4 weekly hours"
     },
     {
-      "course": "Teaching assistant for Topology and Differentiable Calculus I",
+      "course": "Undergraduate course on Topology and Differentiable Calculus I",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2024-06-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "role": "Teaching assistant",
+      "description": "4 weekly hours"
     },
     {
-      "course": "Teaching assistant for Functional Analysis",
+      "course": "Undergraduate course on Functional Analysis",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2024-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "role": "Teaching assistant",
+      "description": "4 weekly hours"
     },
     {
-      "course": "Teaching assistant for Introduction to Riemann Surfaces",
+      "course": "Master's course on Introduction to Riemann Surfaces",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2025-01-01",
-      "role": "Master's course",
-      "description": ""
+      "role": "Teaching assistant",
+      "description": " 6 weekly hours"
     },
     {
-      "course": "Teaching assistant for Riemann Surfaces",
+      "course": "Graduate course on Riemann Surfaces",
       "institution": "Chalmers University",
       "date": "2026-03-01",
-      "role": "Graduate course",
-      "description": ""
+      "role": "Instructor",
+      "description": "4 weekly hours"
     }
   ]
   
