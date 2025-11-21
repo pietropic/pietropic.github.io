@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant for Riemann Surfaces"
+title: "Instructor of Riemann Surfaces"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-spring-teaching-1
