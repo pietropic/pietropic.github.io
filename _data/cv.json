@@ -3,7 +3,7 @@
     "name": "Pietro Mesquita Piccione",
     "email": "pietropic@pm.me",
     "website": "https://pietropic.github.io/web2",
-    "summary": "Postdoc in complex geometry",
+    "summary": "Mathematician working as a postdoc in complex geometry.",
     "location": {
       "address": "Chalmers Tv\u00e4rgata 3",
       "postalCode": "412 58",
@@ -243,35 +243,35 @@
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2023-06-01",
       "role": "Teaching assistant ",
-      "description": "4 weekly hours"
+      "description": "4 weekly hours."
     },
     {
       "course": "Undergraduate course on Topology and Differentiable Calculus I",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2024-06-01",
       "role": "Teaching assistant",
-      "description": "4 weekly hours"
+      "description": "4 weekly hours."
     },
     {
       "course": "Undergraduate course on Functional Analysis",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2024-01-01",
       "role": "Teaching assistant",
-      "description": "4 weekly hours"
+      "description": "4 weekly hours."
     },
     {
       "course": "Master's course on Introduction to Riemann Surfaces",
       "institution": "Campus Pierre et Marie Curie, Sorbonne Universit\u00e9",
       "date": "2025-01-01",
       "role": "Teaching assistant",
-      "description": " 6 weekly hours"
+      "description": " 6 weekly hours."
     },
     {
       "course": "Graduate course on Riemann Surfaces",
       "institution": "Chalmers University",
       "date": "2026-03-01",
       "role": "Instructor",
-      "description": "4 weekly hours"
+      "description": "4 weekly hours."
     }
   ],
   "languages":[
