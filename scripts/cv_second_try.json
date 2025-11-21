@@ -267,7 +267,14 @@
       "role": "Graduate course",
       "description": ""
     }
+  ],
+  "portfolio": [
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
   ]
-  
-
 }
