@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Pietro Mesquita Piccione",
+    "email": "pietropic@pm.me",
+    "phone": "",
+    "website": "pietropic.github.io/web2",
+    "summary": "Postdoc in complex geometry at the University of Gothenburg",
+    "location": {
+      "address": "Chalmers tvärgata 3",
+      "postalCode": "412 58",
+      "city": "Göteborg",
+      "countryCode": "SW",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "arxiv",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/yourorcidurl"
+      },
+      {
+        "network": "GitHub",
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Sorbonne Université",
+      "area": "Ph.D in Mathematics",
+      "studyType": "",
+      "startDate": "2022",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Sorbonne Université",
+      "area": "M.S. in Mathematics",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Universidade de São Paulo",
+      "area": "B.S. in Mathematics",
+      "studyType": "",
+      "startDate": "2017",
+      "endDate": "2021",
+      "gpa": "9.7/10",
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [{"mother tongue": "Portuguese"}, "English", "Spanish", "French"],
+  "interests": [],
+  "references": [{"advisors":"Sébastien Boucksom"}, "Tat Dat Tô", "Ruadhaí Dervan", "Tamás Darvas"],
+  "publications": [
+    {
+      "name": "A non-Archimedean theory of complex spaces and the cscK problem",
+      "publisher": "Advances in Mathematics",
+      "releaseDate": "2024-09-10",
+      "website": "https://doi.org/10.1016/j.aim.2025.110543",
+      "summary": "In this paper I construct a space of valuations attached to a compact complex manifold, that generalize the Berkovich analytification of a projective variety over C. As an application I get a sufficient algebraic  condition for the existence of constant scalar curvature Kähler metrics on a given Kähler class on a Kähler manifold."
+    },
+    {
+      "name": "A transcendental non-Archimedean Calabi--Yau Theorem with applications to the cscK problem",
+      "publisher": "preprint on arXiv",
+      "releaseDate": "2025-09-11",
+      "website": "https://arxiv.org/abs/2509.09442",
+      "summary": "Joint with David Witt Nyström. In it we solve the non-Archimedean Monge-Ampère equation for compact Kähler manifolds, generalizing a result of Boucksom--Favre--Jonsson to the transcendental setting. This allows us to derive a valuative criterion for uniform K-stability for models. As a central application, we prove that this stability condition implies the existence of a unique constant scalar curvature Kähler metric. "
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ]
+}
