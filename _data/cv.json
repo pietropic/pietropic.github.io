@@ -6,9 +6,9 @@
     "website": "https://pietropic.github.io/web2",
     "summary": "Postdoc in complex geometry",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Chalmers Tv\u00e4rgata 3, 412 58<br> G\u00f6teborg, Sweden</br>",
+      "address": "Chalmers Tv\u00e4rgata 3",
+      "postalCode": "412 58",
+      "city": "G\u00f6teborg",
       "countryCode": "Sweden",
       "region": ""
     },
