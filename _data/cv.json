@@ -278,9 +278,31 @@
     {
       "language": "Portuguese",
       "fluency": "Mother tongue"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "I hope in the next two years :)"
     }
-    
   ]
   
-
 }
