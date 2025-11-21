@@ -53,7 +53,7 @@
     <div class="cv-profiles">
       {% for profile in cv.basics.profiles %}
       <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
-        <i class="ai ai-{{ profile.network | downcase }} ai-fw icon-pad-right"></i> {{ profile.network }}
+        <i class="fab fa-{{ profile.network | downcase }} ai-fw icon-pad-right"></i> {{ profile.network }}
       </a>
       {% endfor %}
     </div>
