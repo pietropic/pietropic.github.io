@@ -12,18 +12,26 @@
     },
     "profiles": [
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/0000-0002-1626-0726"
-      },
-      {
         "network": "arxiv",
         "username": "",
         "url": "https://arxiv.org/a/mesquitapiccione_p_1.html"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0002-1626-0726"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Postdoc",
+      "startDate": "2025",
+      "endDate": "2027",
+      "company": "University of Gothenburg",
+      "summary": "Supervisor: David Witt Nyström"
+    }
+  ],
   "education": [
     {
       "institution": "Sorbonne Universit\u00e9",
@@ -265,6 +273,13 @@
       "role": "Instructor",
       "description": "4 weekly hours"
     }
+  ],
+  "languages":[
+    {
+      "language": "Portuguese",
+      "fluency": "Mother tongue"
+    }
+    
   ]
   
 
