@@ -10,9 +10,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:           # ← ADDED THIS
+      contents: write     # ← ADDED THIS
 
     steps:
     - uses: actions/checkout@v2
+      with:               # ← ADDED THIS
+        token: ${{ secrets.GITHUB_TOKEN }}  # ← ADDED THIS
 
     - name: Set up Python
       uses: actions/setup-python@v2
