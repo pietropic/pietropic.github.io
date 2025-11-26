@@ -11,7 +11,7 @@ redirect_from:
 I am postdoc at the University of Gothenburg under the supervision of [David Witt Nyström](https://www.gu.se/en/about/find-staff/davidwittnystrom).
 I am interested in complex geometry, more precisely on the interaction of Kähler and non-Archimedean geometry.
 
-I completed my PhD and Masters degree at Sorbonne Université (Paris VI) under the supervision of [Sébastien Boucksom](https://sebastien.boucksom.perso.math.cnrs.fr/) and [Tat Dat Tô](https://sites.google.com/site/totatdatmath/home). 
+I completed my [PhD](/files/thesis.mp4) and Masters degree at Sorbonne Université (Paris VI) under the supervision of [Sébastien Boucksom](https://sebastien.boucksom.perso.math.cnrs.fr/) and [Tat Dat Tô](https://sites.google.com/site/totatdatmath/home). 
 
 During both Masters and PhD I was supported by the [Fondation Sciences mathématiques de Paris](https://sciencesmaths-paris.fr/).
 
@@ -25,9 +25,11 @@ I completed my undergraduate degree at the University of São Paulo in 2021, whe
 Some other things
 ------
 
-Recordings of some of my recent talks can be found here. Here is a copy of my current CV.
+I have had some talks recorded the links can be found [here](/talks/). Here is a copy of my current [CV](/files/CV.pdf).
 
-I used to organize a student run academic group, called [A5 Group](https://www.ime.usp.br/~acinco/en.html). During my undergraduate years I also took three summer courses at IMPA. For some of my other non-mathematical interests, see the fun stuff section.
+I used to organize a student run academic group, called [A5 Group](https://www.ime.usp.br/~acinco/en.html). During my undergraduate years I also took three summer courses at IMPA, which were always lots of fun. For some of my other non-mathematical interests, see the [fun stuff section](/fun).
+
+[This is a link for my old website](https://pietropic.github.io/old_web).
 
 
 

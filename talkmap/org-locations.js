@@ -25,11 +25,6 @@ var addressPoints = [
     11.9670171
   ],
   [
-    "Geometry Webinar AmSur/AmSul<br />Webinar AmSur/AmSul; Online",
-    43.5904719,
-    3.8595132
-  ],
-  [
     "Graduate Student Seminar Series<br />SLMath; Berkeley, USA",
     37.8708393,
     -122.272863
@@ -55,14 +50,9 @@ var addressPoints = [
     12.3747329
   ],
   [
-    "Geometric Analysis Seminar<br />BICMR; Online",
-    43.5904719,
-    3.8595132
-  ],
-  [
     "Workshop on Singular canonical K\u00e4hler metrics on compact and non-compact manifolds<br />R\u00e9nyi Institute; Budapest, Hungary",
-    47.4978789,
-    19.0402383
+    47.4813896,
+    19.1460941
   ],
   [
     "Demi-Journ\u00e9e des doctorant.e.s de l\u2019\u00e9quipe TGA 2024<br />IMJ-PRG, Sorbonne Universit\u00e9; Paris, France",

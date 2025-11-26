@@ -71,5 +71,6 @@ Languages
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+  <a href="{{ base_path }}/cv-json" class="btn btn--inverse">View alternative style CV</a>
+  <a href="{{ base_path }}" class="btn btn--primary">View Markdown CV</a>
 </div>
