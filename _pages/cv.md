@@ -47,6 +47,12 @@ Teaching
   
 Service 
 ------
+* 2025: Participated at the cycle ["Un texte, une aventure mathématique"](https://smf.emath.fr/node/28305)
+  * A joint organization of the [Société Mathématique de France](https://smf.emath.fr/) and the [Bibliothèque nationale de France](http://www.bnf.fr/fr/acc/x.accueil.html) to expose the general public with the history and problems of current research Mathematics. 
+  * Gave a ''pre-talk'' at a high school preparing for the talk ["Dennis Sullivan, mathématicien des analogies"](https://smf.emath.fr/evenements-smf/conference-bnf-b-schapira-2025) given by Barbara Schapira.
+  * [Slides](files/hyp.pdf) and [extra material](https://drive.proton.me/urls/HB78HPR8F4#PeYTRhPIGCe4).
+  * Lycée international St Germain en Laye
+
 * 2021: Organizer of the [A5 Group](https://www.ime.usp.br/~acinco/en.html)
   * A student runned academic group
   * Over [25 weekly seminars](https://www.ime.usp.br/~acinco/past-seminars.html) organized
