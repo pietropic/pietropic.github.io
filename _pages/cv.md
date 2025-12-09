@@ -75,7 +75,10 @@ Languages
 * Catalan: intermediate
 * Swedish: hopefully in two years :)
 
-Member of the [Société Mathématique de France](https://smf.emath.fr/).
+Memberships
+----
+
+* Member of the [Société Mathématique de France](https://smf.emath.fr/).
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download CV as PDF</a>
