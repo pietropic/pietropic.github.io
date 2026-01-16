@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-
-
 Besides Mathematics I love doing many things: I am passionate about reading. It is really hard to list things that one like, but if you ever mention to me Sally Rooney, Charles Burns, Paul Pope or Christophe Chabouté I would be really happy.
 
 Besides, I also enjoy listening to music and playing chess. But I think that there is no better way to spend a friday afternoon than playing soccer with friends. I am a fan of Palmeiras and [Lazio](/files/birthday.jpeg).
